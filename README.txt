@@ -33,3 +33,10 @@ run
 git clone <URL>
 ```
 Open you anki application and you should be able to see the latest cards stored.
+
+### Updating
+
+within the directory, run 
+```bash
+git pull
+```
